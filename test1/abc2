@@ -1,5 +1,10 @@
 abc3
 bd
 ef
+<<<<<<< HEAD
 ee
 gg
+=======
+gg
+ee
+>>>>>>> refs/remotes/origin/master
